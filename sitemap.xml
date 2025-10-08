@@ -12,4 +12,16 @@
 <image:title><![CDATA[Anete Zepa on a red brakgorund]]></image:title>
 </image:image>
 </url>
+<url>
+<loc>https://AneteZepa.github.io/blog/ten-ideas-later-we-have-stories/</loc>
+<lastmod>2025-10-08T12:47:52+03:00</lastmod>
+<image:image>
+<image:loc>https://AneteZepa.github.io/blog/media/posts/5/not_a_story.png</image:loc>
+<image:title><![CDATA[A gray histogram of exam scores from 0 to 100 with many thin bars. The chart has the vague title “Scores Distribution” and unlabeled axes marked “Value” and “Frequency.” There are no grade cutoffs, benchmarks, or explanations. The visual is cluttered and doesn’t highlight any key insight.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://AneteZepa.github.io/blog/media/posts/5/story_first.png</image:loc>
+<image:title><![CDATA[A smoothed distribution curve of exam scores, with the area above the 70-point benchmark shaded crimson to show the 72% of students who pass. Vertical lines mark grade cutoffs (F, D, C, B, A). A dashed crimson line at 70 is labeled “Benchmark = 70.” Two overlaid density traces show male and female distributions, with annotations calling out the pass rate and median scores by gender. The title states the takeaway: “72% Meet the 70-Point Benchmark; Small Gender Gap in Scores.”]]></image:title>
+</image:image>
+</url>
 </urlset>

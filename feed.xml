@@ -3,12 +3,47 @@
     <title>Hello &lt;TechEd&gt; World!</title>
     <link href="https://AneteZepa.github.io/blog/feed.xml" rel="self" />
     <link href="https://AneteZepa.github.io/blog" />
-    <updated>2025-09-16T16:39:53+03:00</updated>
+    <updated>2025-10-08T12:47:52+03:00</updated>
     <author>
         <name>Anete Zepa</name>
     </author>
     <id>https://AneteZepa.github.io/blog</id>
 
+    <entry>
+        <title>Ten ideas later, we have stories</title>
+        <author>
+            <name>Anete Zepa</name>
+        </author>
+        <link href="https://AneteZepa.github.io/blog/ten-ideas-later-we-have-stories/"/>
+        <id>https://AneteZepa.github.io/blog/ten-ideas-later-we-have-stories/</id>
+
+        <updated>2025-10-02T14:22:36+03:00</updated>
+            <summary>
+                <![CDATA[
+                    That is how many drafts of various topics I wrote and did not publish before this one. Many are half done. There are ideas, points, and paragraphs, but they lack flow or connection. They do not tell a story (yet) — a story you could&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">That is how many drafts of various topics I wrote and did not publish before this one.  </span><span style="font-weight: 400;">Many are half done. There are ideas, points, and paragraphs, but they lack flow or connection. They do not tell a story (</span><i><span style="font-weight: 400;">yet</span></i><span style="font-weight: 400;">) — a story you could remember, relate to, and enjoy reading. <em>I hope you enjoy this :)</em></span></p>
+<p><span style="font-weight: 400;">Why does it matter? We humans </span><i><span style="font-weight: 400;">remember and internalize stories</span></i><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">Research shows that story narratives are far easier to recall than raw facts, because they connect ideas to a broader context and create emotions. Compare these two graphs (illustrative purpose only with generated data):</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://AneteZepa.github.io/blog/media/posts/5/not_a_story.png" alt="A gray histogram of exam scores from 0 to 100 with many thin bars. The chart has the vague title “Scores Distribution” and unlabeled axes marked “Value” and “Frequency.” There are no grade cutoffs, benchmarks, or explanations. The visual is cluttered and doesn’t highlight any key insight." width="1580" height="981" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://AneteZepa.github.io/blog/media/posts/5/responsive/not_a_story-xs.png 300w ,https://AneteZepa.github.io/blog/media/posts/5/responsive/not_a_story-sm.png 480w ,https://AneteZepa.github.io/blog/media/posts/5/responsive/not_a_story-md.png 768w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://AneteZepa.github.io/blog/media/posts/5/story_first.png" alt="A smoothed distribution curve of exam scores, with the area above the 70-point benchmark shaded crimson to show the 72% of students who pass. Vertical lines mark grade cutoffs (F, D, C, B, A). A dashed crimson line at 70 is labeled “Benchmark = 70.” Two overlaid density traces show male and female distributions, with annotations calling out the pass rate and median scores by gender. The title states the takeaway: “72% Meet the 70-Point Benchmark; Small Gender Gap in Scores.”" width="1877" height="1178" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://AneteZepa.github.io/blog/media/posts/5/responsive/story_first-xs.png 300w ,https://AneteZepa.github.io/blog/media/posts/5/responsive/story_first-sm.png 480w ,https://AneteZepa.github.io/blog/media/posts/5/responsive/story_first-md.png 768w"></figure>
+<p><span style="font-weight: 400;">They have the same data, but one’s story is much clearer, richer. </span></p>
+<p><span style="font-weight: 400;">In technical communication (learning materials, documentation, books, YouTube videos, etc.), this means that (whenever possible) you should frame information in a story-like structure: </span><strong>problem, challenge, solution.</strong><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Doing so transforms the content from the dreaded <em>words-on-a-page</em> into something people can enjoy, remember, understand, and then utilize.</span></p>
+<h2>What's in it for me? (WIIFM)</h2>
+<p><span style="font-weight: 400;">In learning materials, stories draw you in and can preemptively answer the most critical audience question, aka "What's In It For Me" (WIIFM): </span><span style="font-weight: 400;"><em>Why</em> should I read/watch this? <em>What</em> is the point? And <em>how</em> do I use this?</span></p>
+<p><span style="font-weight: 400;">How can we use stories in technical communication? </span></p>
+<p><span style="font-weight: 400;">We already do, often without naming it. Case studies are stories. Examples are stories. Real-world problems are stories. Even simple “before and after” explanations are stories -- they set up a situation, introduce the challenge, and then show the path to solution.</span></p>
+<p><span style="font-weight: 400;">The point isn’t to turn documentation into a novel or always include the history of the discovery in an explanation, but to recognize that people learn best when they can see themselves in the material.</span></p>
+<p><span style="font-weight: 400;">Good stories provide context, flow, clarity, and meaning. They help the learner to understand and care about the topic (hopefully) enough to </span><span style="font-weight: 400;">apply the new learning.</span></p>
+<p><i><span style="font-weight: 400;">Next time, when you have something technical to communicate, think - would telling this as a story benefit your audience?</span></i></p>
+<p class="msg msg--highlight ">I'd love to hear your best stories - share the best piece of technical documentation or content you've seen that effectively uses a great story!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello &lt;TechEd&gt; World! - Intro</title>
         <author>
